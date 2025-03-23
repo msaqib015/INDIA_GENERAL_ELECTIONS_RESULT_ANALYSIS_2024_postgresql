@@ -79,6 +79,3 @@ Contributions are welcome! Feel free to:
 ## License
 This project is licensed under the BSD 3-Clause License.
 
-## Contact
-For any queries or suggestions, reach out via [GitHub Issues](https://github.com/yourusername/INDIA_GENERAL_ELECTIONS_RESULT_ANALYSIS_2024_postgresql/issues).
-
